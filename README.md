@@ -1,5 +1,6 @@
 # The World in One Day — 19 November 2026
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
 [![make.fun rank](https://make.fun/badge/news-image-20261119/Shiizuku/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
 [![make.fun reward](https://make.fun/badge/news-image-20261119/Shiizuku/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
